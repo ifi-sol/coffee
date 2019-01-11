@@ -1,0 +1,4 @@
+[16-Jan-2018 03:29:10] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/cupcardc/public_html/cafe/public/index.php on line 50
+[16-Jan-2018 03:29:10] PHP Parse error:  syntax error, unexpected T_STRING in /home2/cupcardc/public_html/cafe/public/index.php on line 50
+[16-Jan-2018 03:29:21] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/cupcardc/public_html/cafe/public/index.php on line 50
+[16-Jan-2018 03:29:21] PHP Parse error:  syntax error, unexpected T_STRING in /home2/cupcardc/public_html/cafe/public/index.php on line 50

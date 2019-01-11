@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1505.005 92.987 43.42 40.404">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="search" transform="matrix(0.995, 0.105, -0.105, 0.995, 1451.537, -44.717)">
+    <g id="Ellipse_4" data-name="Ellipse 4" class="cls-1" transform="translate(71 131)">
+      <circle class="cls-3" cx="16.5" cy="16.5" r="16.5"/>
+      <circle class="cls-4" cx="16.5" cy="16.5" r="15.5"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" class="cls-2" transform="matrix(0.839, 0.545, -0.545, 0.839, 99.717, 155.655)">
+      <rect class="cls-3" width="18" height="2" rx="1"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="17" height="1" rx="0.5"/>
+    </g>
+  </g>
+</svg>
